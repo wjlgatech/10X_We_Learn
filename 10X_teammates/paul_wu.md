@@ -6,9 +6,9 @@
 - interview with vendors, learner and producer
 
 2. study gML
-- make this TRUE [‘permutation symmetries’, ‘graph isomorphism’, ‘gnn powers’, ‘graph laplacian’]
+- learn this list [‘permutation symmetries’, ‘graph isomorphism’, ‘gnn powers’, ‘graph laplacian’] & make them TRUE=Transferable Reproducible Understandable Executable
 - make YouTube video + colab notebook on those 4 subjects
-- read associated seminal paper & ppt
+- read associated seminal papers & ppt
 
 3. interview potential users
 - internal: ch..., br..., li..., ni...
@@ -19,8 +19,8 @@
 
 ### Routines to grow
 - morning routine: 2 hr gML learning => 1hr walk & talk =>3x 2hr coding
-- night routine: 0.5-1.5 hr training => write blogs 3 nights & read books 3 nights 0.5-1.5 hr
-- random videos & podcast: during dinner, driving & training
+- night routine: 0.5-1.5 hr MMM training => 0.5-1.5 hr writing blogs (3 nights) &/ reading books (3 nights)
+- random videos & podcast: during dinner, driving & MMM-training
 
 # 09/25/2022 - 10/01/2022 Week 5/12
 
